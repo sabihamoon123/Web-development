@@ -1,0 +1,69 @@
+.test li:hover
+{
+    background-color: red;
+    color: white;
+}
+
+.dropdown-hover:hover .dropdown-menu
+{
+    display: block;
+}
+.h-500
+{
+    height: 500px;
+}
+
+.my-caption
+{
+    background-color: rgba(0, 0, 0, 0.5);
+    bottom: 150px;
+}
+
+.text-justify{text-align: justify!important;}
+
+.theme-bg{ background-color: orange;}
+.text-bg{ color: orange;}
+
+.nav-padding .nav-link
+{
+    
+    padding: 25px 18px!important;
+    color: black;
+    transition: .5s;
+    font-weight: bolder;
+}
+
+.nav-padding .nav-link:hover
+{
+  background-color: orange;
+  color: white;
+}
+
+.dropdown:hover .dropdown-menu
+{
+    display: block;
+}
+
+.banner-section
+{
+    height: 500px;
+    background-image: url("../img/s1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bg-opacity-banner
+{
+    opacity: 95%;
+}
+
+.banner-content
+{
+    margin-top: 50px;
+}
+
+.bg-section
+{
+ background-color: #F2F2F4;
+}
